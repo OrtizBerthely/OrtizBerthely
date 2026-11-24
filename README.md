@@ -1,50 +1,29 @@
-
 # Arturo Ortiz Berthely
 
-### Estudiante de Ingeniería en Sistemas Computacionales
+**Estudiante de Ingeniería en Sistemas Computacionales · TecNM Campus Tláhuac**  
+Ciudad de México · En búsqueda de residencias profesionales
 
-TecNM Campus Tláhuac | Ciudad de México, México
-
-## Sobre mí
-
-Estudiante de noveno semestre de Ingeniería en Sistemas Computacionales, interesado en la innovación tecnológica, el desarrollo de productos digitales y la resolución de problemas mediante soluciones funcionales.
-
-Utilizo herramientas de inteligencia artificial como apoyo para el desarrollo de software, la creación de prototipos y la implementación de soluciones tecnológicas.
-
-Actualmente busco oportunidades para realizar mis residencias profesionales.
+Diseño y desarrollo soluciones web y móviles, y colaboro en prototipos que integran software y electrónica. He aplicado estos conocimientos en un proyecto comercial, una aplicación Android y proyectos de innovación del TecNM.
 
 ## Proyectos destacados
 
-| Proyecto | Descripción |
-|---|---|
-| [ChefGuard IoT](https://github.com/OrtizBerthely6970/ChefGuard-IoT) | Prototipo de automatización y monitoreo de cocinas. Ganador del HackaTec Local 2026. |
-| [Hour of Power](https://github.com/OrtizBerthely6970/Hour-of-Power) | Diseño y desarrollo integral de un catálogo digital de ropa y accesorios deportivos. |
-| [CooLogix](https://github.com/OrtizBerthely6970/CooLogix) | Prototipo de automatización logística presentado en el HackaTec Regional 2026. |
-| [RxPlates](https://github.com/OrtizBerthely6970/RxPlates) | Aplicación Android para CrossFit y halterofilia, con cálculo de cargas y gestión de equipamiento. |
+- **[Hour of Power](https://github.com/OrtizBerthely6970/Hour-of-Power)** · Diseñé y desarrollé individualmente un catálogo comercial de ropa y accesorios deportivos. [Visitar el sitio](https://hourofpower.com.mx/).
+- **[ChefGuard IoT](https://github.com/OrtizBerthely6970/ChefGuard-IoT)** · Propuse la idea y desarrollé la interfaz de monitoreo de una cocina inteligente. El equipo ganó el HackaTec Local 2026.
+- **[RxPlates](https://github.com/OrtizBerthely6970/RxPlates)** · Conceptualicé y diseñé una aplicación Android para registrar marcas de fuerza y calcular los discos para preparar una barra.
+- **[CooLogix](https://github.com/OrtizBerthely6970/CooLogix)** · Propuse el prototipo de banda transportadora y colaboré en la electrónica, la programación y las pruebas. El equipo lo presentó en el HackaTec Regional 2026.
 
 ## Conocimientos y herramientas
 
-- Desarrollo de software asistido por IA.
-- Diseño y prototipado de interfaces en Figma.
-- Fundamentos de Java, Python, HTML, CSS y JavaScript.
-- Bases de datos MySQL y SQLite.
-- Android Studio.
-- Prototipado IoT con ESP32 y Arduino IDE.
-- Integración de hardware y software.
+- **Desarrollo:** fundamentos de Java, Python, HTML, CSS y JavaScript. Bases de datos MySQL y SQLite.
+- **Diseño y desarrollo móvil:** Figma y Android Studio. IA como apoyo para el desarrollo de software.
+- **Prototipado IoT:** ESP32, Arduino IDE e integración de sensores con interfaces de monitoreo.
 
-## Logros académicos
+## Experiencia y formación
 
-- Ganador del HackaTec Local 2026.
-- Participante del HackaTec Regional 2026.
-- Promedio académico: 89.92/100.
-- Jefe de grupo durante séptimo y octavo semestre.
-
-## Experiencia complementaria
-
-- Desarrollador web e integrante de Aztlán Web Group.
-- Servicio social concluido en Jóvenes Tulyehualco A.C.
+- Desarrollador web e integrante de [Aztlán Web Group](https://aztlanwebgroup.com/).
+- Servicio social concluido en Jóvenes Tulyehualco A.C. Diseño y desarrollo colaborativo de un sitio informativo.
+- Promedio académico de 89.92/100. Jefe de grupo durante séptimo y octavo semestre.
 
 ## Contacto
 
-- Correo: 5b.arturo.ortiz@gmail.com
-- Aztlán Web Group: [aztlanweb.com](https://www.aztlanweb.com)
+[5b.arturo.ortiz@gmail.com](mailto:5b.arturo.ortiz@gmail.com)
