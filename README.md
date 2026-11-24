@@ -7,10 +7,10 @@ Diseño y desarrollo soluciones web y móviles, y colaboro en prototipos que int
 
 ## Proyectos destacados
 
-- **[Hour of Power](https://github.com/OrtizBerthely6970/Hour-of-Power)** · Diseñé y desarrollé individualmente un catálogo comercial de ropa y accesorios deportivos. [Visitar el sitio](https://hourofpower.com.mx/).
-- **[ChefGuard IoT](https://github.com/OrtizBerthely6970/ChefGuard-IoT)** · Propuse la idea y desarrollé la interfaz de monitoreo de una cocina inteligente. El equipo ganó el HackaTec Local 2026.
-- **[RxPlates](https://github.com/OrtizBerthely6970/RxPlates)** · Conceptualicé y diseñé una aplicación Android para registrar marcas de fuerza y calcular los discos para preparar una barra.
-- **[CooLogix](https://github.com/OrtizBerthely6970/CooLogix)** · Propuse el prototipo de banda transportadora y colaboré en la electrónica, la programación y las pruebas. El equipo lo presentó en el HackaTec Regional 2026.
+- **[Hour of Power](https://github.com/OrtizBerthely/Hour-of-Power)** · Diseñé y desarrollé individualmente un catálogo comercial de ropa y accesorios deportivos. [Visitar el sitio](https://hourofpower.com.mx/).
+- **[ChefGuard IoT](https://github.com/OrtizBerthely/ChefGuard-IoT)** · Propuse la idea y desarrollé la interfaz de monitoreo de una cocina inteligente. El equipo ganó el HackaTec Local 2026.
+- **[RxPlates](https://github.com/OrtizBerthely/RxPlates)** · Conceptualicé y diseñé una aplicación Android para registrar marcas de fuerza y calcular los discos para preparar una barra.
+- **[CooLogix](https://github.com/OrtizBerthely/CooLogix)** · Propuse el prototipo de banda transportadora y colaboré en la electrónica, la programación y las pruebas. El equipo lo presentó en el HackaTec Regional 2026.
 
 ## Conocimientos y herramientas
 
