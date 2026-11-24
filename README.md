@@ -20,7 +20,7 @@ Actualmente busco oportunidades para realizar mis residencias profesionales.
 | [ChefGuard IoT](https://github.com/OrtizBerthely6970/ChefGuard-IoT) | Prototipo de automatización y monitoreo de cocinas. Ganador del HackaTec Local 2026. |
 | [Hour of Power](https://github.com/OrtizBerthely6970/Hour-of-Power) | Diseño y desarrollo integral de un catálogo digital de ropa y accesorios deportivos. |
 | [CooLogix](https://github.com/OrtizBerthely6970/CooLogix) | Prototipo de automatización logística presentado en el HackaTec Regional 2026. |
-| RxPlates | Aplicación Android para CrossFit y halterofilia, con cálculo de cargas y gestión de equipamiento. |
+| [RxPlates](https://github.com/OrtizBerthely6970/RxPlates) | Aplicación Android para CrossFit y halterofilia, con cálculo de cargas y gestión de equipamiento. |
 
 ## Conocimientos y herramientas
 
