@@ -17,7 +17,7 @@ Actualmente busco oportunidades para realizar mis residencias profesionales.
 
 | Proyecto | Descripción |
 |---|---|
-| ChefGuard IoT | Prototipo de automatización y monitoreo de cocinas. Ganador del HackaTec Local 2026. |
+| [ChefGuard IoT](https://github.com/OrtizBerthely6970/ChefGuard-IoT) | Prototipo de automatización y monitoreo de cocinas. Ganador del HackaTec Local 2026. |
 | Hour of Power | Diseño y desarrollo integral de un catálogo digital de ropa y accesorios deportivos. |
 | CooLogix | Prototipo de automatización logística presentado en el HackaTec Regional 2026. |
 | RxPlates | Aplicación Android para CrossFit y halterofilia, con cálculo de cargas y gestión de equipamiento. |
